@@ -6,8 +6,8 @@ This stub provides basic type annotations for a few common methods to improve au
 
 ### Included Methods
 
-- `assert.equal(expected, actual)`
-- `assert.same(expected, actual)`
-- `assert.True(value)`
-- `assert.False(value)`
+- assert.equal
+- assert.same
+- assert.True
+- assert.False
   
