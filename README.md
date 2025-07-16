@@ -1,4 +1,4 @@
-# luassert (stub)
+# stub_luassert
 
 Simple manual Lua stub for the methods provided by the [luassert](https://github.com/Olivine-Labs/luassert) framework, intended for use with [LuaLS](https://github.com/LuaLS/lua-language-server).
 
